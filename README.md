@@ -1,0 +1,2 @@
+# Intersagero
+Traductor Áurico-Español
